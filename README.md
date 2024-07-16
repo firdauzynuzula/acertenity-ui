@@ -36,7 +36,7 @@ Preview Hasil website yang sudah saya buat:
    ![keenam](https://github.com/user-attachments/assets/f708eabb-19d8-4cf9-999f-f2c0b3e405e4)
 
 8. Button gradient
-   ![ketujuh](https://github.com/user-attachments/assets/6c208f3f-ae8b-401f-a49a-991314af22e7)
+ ![ketujuh](https://github.com/user-attachments/assets/6c208f3f-ae8b-401f-a49a-991314af22e7)
 
 9. Hover-effect-card
    ![kedelapan](https://github.com/user-attachments/assets/8968e0c1-218c-489f-b4ae-a75b202a31b6)

@@ -5,10 +5,10 @@ Preview Hasil website yang sudah saya buat:
   2. Hero Parallax
   3. 3d-animated pin
   4. 3d-card
-  5. Typewriter-effect
+  5. Border-gradient
   6. Parallax scroll
-  7. Button gradient
-  8. Border-gradient
+  7. Button gradien
+  8. Typewriter-effect
   9. Hover-effect
   10. Text Reveal Card
 
@@ -22,3 +22,4 @@ Preview Hasil website yang sudah saya buat:
 
   3. 3d-animated pin
    ![Cuplikan layar 2024-07-03 200940](https://github.com/firdauzynuzula/acertenity-ui/assets/142510245/c920a1ed-c016-439d-b215-553fbeff42c3)
+    

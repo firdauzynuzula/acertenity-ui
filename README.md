@@ -28,5 +28,18 @@ Preview Hasil website yang sudah saya buat:
 
  5. 3d-card
     ![keempat](https://github.com/user-attachments/assets/47a76894-2fbe-42d3-a821-9b18a5f3a096)
-     
-    
+
+6. Parallax-scroll
+   ![kelima](https://github.com/user-attachments/assets/9d877551-6349-4349-8423-73f27cf6ce6f)
+
+7. Typewriter-effect     
+   ![keenam](https://github.com/user-attachments/assets/f708eabb-19d8-4cf9-999f-f2c0b3e405e4)
+
+8. Button gradient
+   ![ketujuh](https://github.com/user-attachments/assets/6c208f3f-ae8b-401f-a49a-991314af22e7)
+
+9. Hover-effect-card
+   ![kedelapan](https://github.com/user-attachments/assets/8968e0c1-218c-489f-b4ae-a75b202a31b6)
+
+10. Text Reveal Card 
+    ![kesembilan](https://github.com/user-attachments/assets/e8ff18f3-15e1-4944-94d0-a4d78bb9bc61)

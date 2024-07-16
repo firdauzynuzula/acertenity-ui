@@ -1,9 +1,16 @@
 Preview Hasil website yang sudah saya buat:
 
- Pada website ini terdapat 3 component ui dari Library Aceternity-UI yang sudah saya coba :
+ Pada website ini terdapat 10 component ui dari Library Aceternity-UI yang sudah saya coba :
   1. Floating Navbar 
   2. Hero Parallax
-  3. dan, 3d-animated pin
+  3. 3d-animated pin
+  4. 3d-card
+  5. Typewriter-effect
+  6. Parallax scroll
+  7. Button gradient
+  8. Border-gradient
+  9. Hover-effect
+  10. Text Reveal Card
 
   untuk hasil nya dapat dilihat dibawah ini 
 
